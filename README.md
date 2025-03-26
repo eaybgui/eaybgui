@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elies and I'm a Junior Fullstack dev, from Spain!</p>
+<p align="left">My name is Elies and I'm a Junior Fullstack developer from Spain!</p>
 
 ###
 
