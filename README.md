@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Studied computer science in UPV!<br>🎯 Developing my first SaaS!<br>🎲 I like to stay updated with new tools and techs!<br>🌐 Visit my github page :)</p>
+<p align="left">📚 Studied computer science in UPV!<br>🎯 Developing my first SaaS!<br>🎲 I like to stay updated with new tools and techs!<br>🌐 Visit <a href="https://eaybgui.github.io/">my github page</a> :)</p>
 
 ###
 
@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eaybgui/" target="_blank">
+  <a href="https://www.linkedin.com/in/eaybgui/" styles="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:eaybgui@gmail.com" target="_blank">
